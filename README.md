@@ -9,6 +9,9 @@ A sophisticated GenAI-powered legal assistant that helps small and medium busine
 [![Watch the demo on YouTube](https://img.youtube.com/vi/HX8VmEJKqoQ/hqdefault.jpg)](https://youtu.be/HX8VmEJKqoQ)
 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HX8VmEJKqoQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Features
 
 ### 🆕 Latest Enhancements (Version 2.0)
@@ -234,5 +237,6 @@ For issues or questions, please refer to the implementation plan and code docume
 **Developed using**: Gemini API, Gradio, spaCy, ReportLab  
 **Version**: 1.0.0  
 **Last Updated**: January 2026
+
 
 
