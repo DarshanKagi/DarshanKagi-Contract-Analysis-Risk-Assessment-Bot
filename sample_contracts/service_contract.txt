@@ -1,0 +1,49 @@
+SERVICE CONTRACT
+
+This Service Contract ("Agreement") is made on January 15, 2024, between Digital Marketing Solutions ("Service Provider") and ABC Enterprises Pvt. Ltd. ("Client").
+
+1. SERVICES PROVIDED
+Service Provider agrees to provide digital marketing services including social media management, content creation, and SEO optimization.
+
+2. CONTRACT DURATION
+This Agreement shall remain in effect for an initial period of 12 months beginning February 1, 2024.
+
+3. FEES AND PAYMENT
+3.1 Client agrees to pay ₹75,000 per month for services.
+3.2 Payment is due within 15 days of invoice date.
+3.3 Additional services may be provided at rates to be determined by Service Provider.
+
+4. DELIVERABLES
+Service Provider shall deliver monthly reports and analytics. The format and content of deliverables shall be determined solely by Service Provider based on what they deem appropriate for the Client's needs.
+
+5. TERMINATION
+5.1 Either party may terminate this Agreement with 90 days' written notice.
+5.2 Early termination by Client requires payment of 50% of remaining contract value.
+
+6. CONFIDENTIALITY
+Both parties agree to maintain confidentiality of proprietary information for a period of 5 years following termination.
+
+7. INTELLECTUAL PROPERTY
+7.1 All content, campaigns, and materials created by Service Provider shall remain the property of Service Provider.
+7.2 Client receives a non-exclusive, non-transferable license to use materials during the contract term only.
+
+8. LIABILITY
+Service Provider's total liability under this Agreement shall not exceed the fees paid by Client in the previous three months.
+
+9. WARRANTY
+Service Provider makes no warranties regarding results, performance, or outcomes from services provided.
+
+10. AMENDMENTS
+Service Provider may modify service fees or scope with 30 days' written notice to Client.
+
+11. DISPUTE RESOLUTION
+Any disputes shall be resolved through mediation in Hyderabad, with costs split equally between parties.
+
+12. RENEWAL
+This Agreement may be renewed upon mutual written agreement at least 60 days prior to expiration.
+
+Agreed and signed:
+
+_______________________          _______________________
+Service Provider                 Client Representative
+Date: _______________            Date: _______________

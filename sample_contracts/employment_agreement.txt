@@ -1,0 +1,40 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into on January 1, 2024, between Tech Solutions Pvt. Ltd. ("Company") and Rajesh Kumar ("Employee").
+
+1. POSITION AND DUTIES
+The Employee is hired as a Senior Software Engineer and agrees to perform duties as assigned by the Company. The Employee shall devote full-time attention to the business of the Company.
+
+2. COMPENSATION
+2.1 The Employee shall be paid a monthly salary of ₹1,20,000, subject to applicable tax deductions.
+2.2 The Employee may be eligible for an annual performance bonus at the sole discretion of the Company.
+
+3. TERMINATION
+3.1 The Company may terminate this Agreement at any time without cause by providing 30 days' written notice.
+3.2 If the Employee terminates employment without providing 90 days' notice, they shall pay the Company a penalty equivalent to three months' salary.
+
+4. NON-COMPETE CLAUSE
+The Employee agrees not to engage in any business that competes with the Company for a period of 24 months following termination of employment, within a radius of 50 kilometers from any Company office.
+
+5. INTELLECTUAL PROPERTY
+All work product, inventions, and intellectual property created by the Employee during employment, whether during working hours or not, shall be the exclusive property of the Company in perpetuity.
+
+6. CONFIDENTIALITY
+The Employee agrees to maintain confidentiality of all Company information in perpetuity, even after termination of employment.
+
+7. INDEMNIFICATION
+The Employee shall indemnify and hold harmless the Company from any claims, damages, or losses arising from the Employee's actions or omissions during employment.
+
+8. DISPUTE RESOLUTION
+Any disputes arising from this Agreement shall be resolved exclusively through arbitration in Mumbai, with the Company having the right to choose the arbitrator.
+
+9. AUTO-RENEWAL
+This Agreement automatically renews for successive one-year terms unless either party provides 180 days' notice of non-renewal.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of India, with jurisdiction in Mumbai courts only.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first written above.
+
+_______________________          _______________________
+Company Representative           Employee Signature

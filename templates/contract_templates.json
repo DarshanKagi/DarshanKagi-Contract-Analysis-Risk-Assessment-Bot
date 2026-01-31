@@ -1,0 +1,238 @@
+{
+  "templates": {
+    "employment_agreement": {
+      "name": "Employment Agreement",
+      "description": "Standard employment contract template for Indian SMEs",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Employment Agreement (\"Agreement\") is entered into as of [DATE], by and between:\n\n[EMPLOYER NAME], a company incorporated under the laws of India, having its registered office at [ADDRESS] (\"Employer\")\n\nAND\n\n[EMPLOYEE NAME], residing at [ADDRESS] (\"Employee\")"
+        },
+        {
+          "title": "POSITION AND DUTIES",
+          "content": "1. The Employee shall be employed as [POSITION TITLE].\n2. The Employee shall perform all duties as reasonably assigned by the Employer.\n3. The Employee shall devote their full working time and attention to the Employer's business."
+        },
+        {
+          "title": "COMPENSATION",
+          "content": "1. The Employee shall receive a monthly salary of ₹[AMOUNT] (Rupees [AMOUNT IN WORDS] Only).\n2. Salary shall be payable on the [DATE] of each month.\n3. All payments are subject to applicable tax deductions."
+        },
+        {
+          "title": "WORKING HOURS",
+          "content": "1. Standard working hours shall be [HOURS] hours per week.\n2. The Employee may be required to work additional hours as necessary.\n3. Overtime compensation shall be provided as per applicable labor laws."
+        },
+        {
+          "title": "LEAVE AND HOLIDAYS",
+          "content": "1. The Employee shall be entitled to [NUMBER] days of paid leave per year.\n2. Sick leave shall be provided as per the applicable laws.\n3. Public holidays shall be observed as declared by the government."
+        },
+        {
+          "title": "TERMINATION",
+          "content": "1. Either party may terminate this Agreement by providing [NUMBER] days written notice.\n2. The Employer may terminate immediately for gross misconduct after due inquiry.\n3. Upon termination, the Employee shall return all company property."
+        },
+        {
+          "title": "CONFIDENTIALITY",
+          "content": "1. The Employee agrees to maintain confidentiality of all proprietary information.\n2. This obligation shall survive termination of employment for a period of [NUMBER] years.\n3. Breach of confidentiality may result in legal action."
+        },
+        {
+          "title": "GOVERNING LAW",
+          "content": "This Agreement shall be governed by the laws of India. Any disputes shall be subject to the jurisdiction of courts in [CITY]."
+        }
+      ]
+    },
+    "vendor_contract": {
+      "name": "Vendor/Supplier Contract",
+      "description": "Standard vendor agreement template for procurement",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Vendor Agreement (\"Agreement\") is entered into as of [DATE], by and between:\n\n[BUYER COMPANY NAME], a company incorporated under the laws of India (\"Buyer\")\n\nAND\n\n[VENDOR COMPANY NAME], a company incorporated under the laws of India (\"Vendor\")"
+        },
+        {
+          "title": "SCOPE OF SERVICES/GOODS",
+          "content": "1. The Vendor agrees to supply [DESCRIPTION OF GOODS/SERVICES].\n2. Specifications and quality standards are detailed in Schedule A.\n3. Any changes to scope require written agreement from both parties."
+        },
+        {
+          "title": "PRICING AND PAYMENT",
+          "content": "1. The Buyer shall pay the Vendor as per the pricing schedule in Schedule B.\n2. Payment terms: [NUMBER] days from receipt of invoice.\n3. All prices are exclusive of GST unless otherwise stated."
+        },
+        {
+          "title": "DELIVERY",
+          "content": "1. Delivery shall be made to [LOCATION] as per the agreed schedule.\n2. Risk of loss passes to Buyer upon delivery.\n3. Late delivery may result in penalties as specified in Schedule C."
+        },
+        {
+          "title": "WARRANTY",
+          "content": "1. The Vendor warrants that all goods/services shall be free from defects.\n2. Warranty period: [NUMBER] months from delivery.\n3. Defective items shall be replaced or repaired at Vendor's cost."
+        },
+        {
+          "title": "LIMITATION OF LIABILITY",
+          "content": "1. Neither party shall be liable for indirect or consequential damages.\n2. Total liability shall not exceed the contract value.\n3. This limitation does not apply to willful misconduct or gross negligence."
+        },
+        {
+          "title": "TERMINATION",
+          "content": "1. Either party may terminate with [NUMBER] days written notice.\n2. Immediate termination is permitted for material breach.\n3. Upon termination, all outstanding payments become due."
+        },
+        {
+          "title": "DISPUTE RESOLUTION",
+          "content": "1. Disputes shall first be resolved through good faith negotiation.\n2. If unresolved, disputes shall be referred to arbitration under the Arbitration and Conciliation Act, 1996.\n3. The seat of arbitration shall be [CITY]."
+        }
+      ]
+    },
+    "lease_agreement": {
+      "name": "Commercial Lease Agreement",
+      "description": "Standard lease agreement for commercial properties",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Lease Agreement (\"Agreement\") is entered into as of [DATE], by and between:\n\n[LANDLORD NAME], residing at/having registered office at [ADDRESS] (\"Lessor\")\n\nAND\n\n[TENANT NAME/COMPANY], residing at/having registered office at [ADDRESS] (\"Lessee\")"
+        },
+        {
+          "title": "PREMISES",
+          "content": "1. The Lessor agrees to lease the property located at [FULL ADDRESS].\n2. Total area: [SQUARE FEET/METERS].\n3. The premises shall be used for [PURPOSE] only."
+        },
+        {
+          "title": "TERM",
+          "content": "1. The lease term shall be [NUMBER] years, commencing on [START DATE].\n2. The lease may be renewed by mutual written agreement.\n3. Renewal terms shall be negotiated [NUMBER] months before expiry."
+        },
+        {
+          "title": "RENT AND SECURITY DEPOSIT",
+          "content": "1. Monthly rent: ₹[AMOUNT] (Rupees [AMOUNT IN WORDS] Only).\n2. Rent is due on the [DATE] of each month.\n3. Security deposit: ₹[AMOUNT], refundable upon lease termination.\n4. Annual rent escalation: [PERCENTAGE]%."
+        },
+        {
+          "title": "MAINTENANCE",
+          "content": "1. The Lessee shall maintain the premises in good condition.\n2. Major structural repairs are the Lessor's responsibility.\n3. The Lessee shall obtain Lessor's consent for any alterations."
+        },
+        {
+          "title": "UTILITIES",
+          "content": "1. The Lessee shall pay for electricity, water, and other utilities.\n2. Utility connections shall be in the Lessee's name where possible.\n3. Common area maintenance charges: ₹[AMOUNT] per month."
+        },
+        {
+          "title": "TERMINATION",
+          "content": "1. Either party may terminate with [NUMBER] months written notice.\n2. Early termination by Lessee forfeits [AMOUNT] of security deposit.\n3. Lessor may terminate immediately for non-payment or breach."
+        },
+        {
+          "title": "GOVERNING LAW",
+          "content": "This Agreement shall be governed by the Transfer of Property Act, 1882 and the laws of India. Courts in [CITY] shall have exclusive jurisdiction."
+        }
+      ]
+    },
+    "service_contract": {
+      "name": "Service Agreement",
+      "description": "Standard service contract for professional services",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Service Agreement (\"Agreement\") is entered into as of [DATE], by and between:\n\n[CLIENT NAME/COMPANY] (\"Client\")\n\nAND\n\n[SERVICE PROVIDER NAME/COMPANY] (\"Service Provider\")"
+        },
+        {
+          "title": "SERVICES",
+          "content": "1. The Service Provider agrees to provide [DESCRIPTION OF SERVICES].\n2. Detailed scope of work is attached as Schedule A.\n3. Timeline and milestones are specified in Schedule B."
+        },
+        {
+          "title": "FEES AND PAYMENT",
+          "content": "1. Total project fee: ₹[AMOUNT] OR Hourly rate: ₹[AMOUNT]/hour.\n2. Payment schedule: [PERCENTAGE]% upfront, balance upon completion.\n3. Invoices are payable within [NUMBER] days.\n4. Late payment attracts interest at [PERCENTAGE]% per month."
+        },
+        {
+          "title": "INTELLECTUAL PROPERTY",
+          "content": "1. All deliverables created shall be the property of the Client upon full payment.\n2. The Service Provider retains rights to pre-existing IP and general knowledge.\n3. The Service Provider may showcase the work in their portfolio with Client's consent."
+        },
+        {
+          "title": "CONFIDENTIALITY",
+          "content": "1. Both parties agree to maintain confidentiality of sensitive information.\n2. Confidential information excludes publicly available information.\n3. This obligation survives termination for [NUMBER] years."
+        },
+        {
+          "title": "WARRANTIES",
+          "content": "1. The Service Provider warrants professional quality of services.\n2. Services shall be performed in accordance with industry standards.\n3. Defects shall be corrected at no additional cost within [NUMBER] days."
+        },
+        {
+          "title": "LIMITATION OF LIABILITY",
+          "content": "1. The Service Provider's liability is limited to the total fees paid.\n2. Neither party is liable for indirect or consequential damages.\n3. This does not limit liability for gross negligence or willful misconduct."
+        },
+        {
+          "title": "TERMINATION",
+          "content": "1. Either party may terminate with [NUMBER] days written notice.\n2. Upon termination, Client pays for work completed.\n3. All confidential information must be returned or destroyed."
+        }
+      ]
+    },
+    "nda": {
+      "name": "Non-Disclosure Agreement (NDA)",
+      "description": "Standard mutual NDA for business discussions",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Non-Disclosure Agreement (\"Agreement\") is entered into as of [DATE], by and between:\n\n[PARTY A NAME/COMPANY] (\"Disclosing Party\")\n\nAND\n\n[PARTY B NAME/COMPANY] (\"Receiving Party\")\n\n(Collectively \"Parties\")"
+        },
+        {
+          "title": "PURPOSE",
+          "content": "The Parties wish to explore a potential business relationship regarding [PURPOSE]. In connection with this, each Party may disclose confidential information to the other."
+        },
+        {
+          "title": "DEFINITION OF CONFIDENTIAL INFORMATION",
+          "content": "\"Confidential Information\" means any information disclosed by either Party, including but not limited to:\n- Business plans and strategies\n- Financial information\n- Technical data and know-how\n- Customer and supplier information\n- Any information marked as confidential"
+        },
+        {
+          "title": "OBLIGATIONS",
+          "content": "1. The Receiving Party shall maintain confidentiality using reasonable care.\n2. Confidential Information shall only be disclosed to employees on a need-to-know basis.\n3. The Receiving Party shall not use Confidential Information except for the stated Purpose."
+        },
+        {
+          "title": "EXCLUSIONS",
+          "content": "Confidential Information does not include information that:\n1. Is publicly available through no fault of the Receiving Party.\n2. Was known to the Receiving Party before disclosure.\n3. Is independently developed without use of Confidential Information.\n4. Is lawfully obtained from a third party."
+        },
+        {
+          "title": "TERM",
+          "content": "1. This Agreement is effective from the date of signing.\n2. Confidentiality obligations shall survive for [NUMBER] years after disclosure.\n3. Either Party may terminate with [NUMBER] days written notice."
+        },
+        {
+          "title": "RETURN OF INFORMATION",
+          "content": "Upon termination or request, the Receiving Party shall:\n1. Return or destroy all Confidential Information.\n2. Provide written certification of destruction if requested.\n3. Retain no copies except as required by law."
+        },
+        {
+          "title": "GOVERNING LAW",
+          "content": "This Agreement shall be governed by the laws of India. Courts in [CITY] shall have exclusive jurisdiction."
+        }
+      ]
+    },
+    "partnership_deed": {
+      "name": "Partnership Deed",
+      "description": "Standard partnership agreement for business partnerships",
+      "sections": [
+        {
+          "title": "PARTIES",
+          "content": "This Partnership Deed is entered into on [DATE] by and between:\n\n1. [PARTNER 1 NAME], residing at [ADDRESS]\n2. [PARTNER 2 NAME], residing at [ADDRESS]\n\n(Collectively \"Partners\")"
+        },
+        {
+          "title": "NAME AND BUSINESS",
+          "content": "1. The partnership shall be carried on under the name \"[PARTNERSHIP NAME]\".\n2. Principal place of business: [ADDRESS].\n3. Nature of business: [DESCRIPTION]."
+        },
+        {
+          "title": "CAPITAL CONTRIBUTION",
+          "content": "1. [PARTNER 1]: ₹[AMOUNT] ([PERCENTAGE]%)\n2. [PARTNER 2]: ₹[AMOUNT] ([PERCENTAGE]%)\n3. Additional capital may be contributed by mutual agreement.\n4. Interest on capital: [PERCENTAGE]% per annum."
+        },
+        {
+          "title": "PROFIT AND LOSS SHARING",
+          "content": "1. Profits and losses shall be shared in the ratio of capital contribution.\n2. Profit distribution shall be [FREQUENCY].\n3. Partners may draw ₹[AMOUNT] per month as salary."
+        },
+        {
+          "title": "MANAGEMENT",
+          "content": "1. All partners shall participate in management.\n2. Major decisions require unanimous consent.\n3. Day-to-day decisions may be made by any partner.\n4. Banking operations require [NUMBER] partner signatures."
+        },
+        {
+          "title": "DUTIES AND RESTRICTIONS",
+          "content": "1. Partners shall devote full time to the partnership business.\n2. Partners shall not engage in competing businesses.\n3. Partners shall maintain true accounts of all transactions.\n4. Partners shall act in good faith towards each other."
+        },
+        {
+          "title": "ADMISSION AND RETIREMENT",
+          "content": "1. New partners may be admitted by unanimous consent.\n2. A partner may retire with [NUMBER] months notice.\n3. Retiring partner's share shall be valued as per agreed formula.\n4. Non-compete obligation: [NUMBER] years after retirement."
+        },
+        {
+          "title": "DISSOLUTION",
+          "content": "1. Partnership may be dissolved by mutual consent.\n2. Upon dissolution, assets shall be liquidated in order of priority.\n3. Remaining assets distributed per profit-sharing ratio."
+        }
+      ]
+    }
+  },
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2024-01-15",
+    "jurisdiction": "India",
+    "disclaimer": "These templates are for reference only and should be customized with legal advice."
+  }
+}

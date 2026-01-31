@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-01-30T18:51:59.383017",
+  "file_name": "complex_test_contract.pdf",
+  "contract_type": "Service Contract",
+  "language": "English",
+  "risk_summary": {
+    "overall_score": 9,
+    "overall_level": "Low",
+    "clause_distribution": {
+      "Low": 17,
+      "Medium": 2,
+      "High": 0
+    },
+    "high_risk_count": 0,
+    "medium_risk_count": 2,
+    "low_risk_count": 17
+  },
+  "num_clauses": 19,
+  "key_findings": [
+    "IP Transfer/Ownership detected in Clause #5",
+    "Indemnity Clause, IP Transfer/Ownership detected in Clause #6"
+  ],
+  "recommendations": [
+    "Clause #5: 1. Add a broad, perpetual, royalty-free license for Client to use Provider's Background IP essential for the Deliverables. 2. Expand the scope of the Pre-Existing Materials license to allow modification and broader use beyond 'embedded in the Deliverables.' 3. Remove or clarify the 'timely payment' condition for IP assignment. 4. Include a Provider warranty that open source licenses are compatible with Client's intended use and an indemnification clause for open source related claims.",
+    "Clause #6: 1. Remove or significantly increase the cap for IP infringement claims under 6.3, or carve out IP infringement from the cap entirely. 2. Clarify 6.1 to ensure the 'sole obligation' does not limit Provider's financial indemnity for all related damages and that Client has approval rights over modifications. 3. Define 'misuse of the Services' more precisely in 6.2."
+  ]
+}

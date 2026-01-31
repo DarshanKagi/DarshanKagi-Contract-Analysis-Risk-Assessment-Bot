@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-01-30T16:52:03.575717",
+  "file_name": "complex_test_contract.pdf",
+  "contract_type": "Error: Failed to get response after 3 attempts. 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+  "language": "English",
+  "risk_summary": {
+    "overall_score": 9,
+    "overall_level": "Low",
+    "clause_distribution": {
+      "Low": 17,
+      "Medium": 2,
+      "High": 0
+    },
+    "high_risk_count": 0,
+    "medium_risk_count": 2,
+    "low_risk_count": 17
+  },
+  "num_clauses": 19,
+  "key_findings": [
+    "IP Transfer/Ownership detected in Clause #5",
+    "Indemnity Clause, IP Transfer/Ownership detected in Clause #6"
+  ],
+  "recommendations": [
+    "Clause #5: Review with legal counsel",
+    "Clause #6: Review with legal counsel"
+  ]
+}

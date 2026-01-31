@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-01-30T23:54:02.089809",
+  "file_name": "complex_test_contract.pdf",
+  "contract_type": "Service Contract",
+  "language": "English",
+  "risk_summary": {
+    "overall_score": 9,
+    "overall_level": "Low",
+    "clause_distribution": {
+      "Low": 17,
+      "Medium": 2,
+      "High": 0
+    },
+    "high_risk_count": 0,
+    "medium_risk_count": 2,
+    "low_risk_count": 17
+  },
+  "num_clauses": 19,
+  "key_findings": [
+    "IP Transfer/Ownership detected in Clause #5",
+    "Indemnity Clause, IP Transfer/Ownership detected in Clause #6"
+  ],
+  "recommendations": [
+    "Clause #5: Add an explicit provision prohibiting the use of strong copyleft open source licenses (e.g., GPL, AGPL) without the Client's prior written consent. Implement a mandatory pre-approval process for all proposed open source components and their respective licenses before incorporation. Negotiate a broader, potentially exclusive, license for critical Provider Pre-Existing Materials, and clearly define 'Background IP' and 'Pre-Existing Materials'.",
+    "Clause #6: Revise 6.1 to explicitly state Provider's indemnity covers all damages, costs, and losses (including legal fees and business interruption) arising from IP infringement claims. For 6.3, either significantly increase the indemnity cap for IP infringement claims or remove the cap entirely for such claims, as 2x fees is generally inadequate for this risk."
+  ]
+}
