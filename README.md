@@ -2,6 +2,11 @@
 
 A sophisticated GenAI-powered legal assistant that helps small and medium business owners understand complex contracts, identify potential legal risks, and receive actionable advice in plain language.
 
+
+![image alt](https://github.com/DarshanKagi/DarshanKagi-Contract-Analysis-Risk-Assessment-Bot/blob/8b5488175fb8294a0847d05deaa84c18281fd1c8/Screenshot%202026-01-31%20104324.png)
+
+
+
 ## Features
 
 ### 🆕 Latest Enhancements (Version 2.0)
@@ -227,3 +232,4 @@ For issues or questions, please refer to the implementation plan and code docume
 **Developed using**: Gemini API, Gradio, spaCy, ReportLab  
 **Version**: 1.0.0  
 **Last Updated**: January 2026
+
